@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @sebzz07
-- 👀 I’m developper PHP/SYMFONY
-- 🌱 I’m looking for a job
-- 💞️ I’m looking to collaborate on littles projects as a freelance.
-- 📫 How to reach me contact@sebdru.fr
+### 👋 Salut, moi c'est Sébastien Dru (@sebzz07)
 
-Thanks to OpenClassrooms and freeCodeCamp, I started to learn by myself languages such as HTML5, CSS3 and JavaScript.
-
-You can find my training ground on sebdru.fr
+- 💻 Développeur Web Full-Stack — PHP/WordPress & JavaScript/TypeScript
+- 🚀 Depuis 2023, j'interviens en freelance sur des projets PHP/WordPress (thèmes avancés, Symfony) et TypeScript/Angular, avec parfois un rôle de coordination technique de projet
+- 🤖 J'intègre les outils de développement assisté par IA à mon flux de travail pour livrer plus vite sans sacrifier la qualité
+- 🌱 Ouvert à de nouvelles opportunités : missions freelance ponctuelles ou suivi régulier d'un site, comme à un poste de développeur à temps plein
+- 🎓 Développeur d'application PHP/Symfony (OpenClassRooms)
+- 📫 Me contacter : contact@sebdru.fr
+- 🔗 Portfolio & CV : [sebdru.fr](https://sebdru.fr)
